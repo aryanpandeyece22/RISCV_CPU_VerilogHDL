@@ -1,0 +1,443 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/simulation/modelsim
+vadder
+Z1 !s110 1700069489
+!i10b 1
+!s100 jXE67fZjiCj2W4l?`i:H?0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IUnijD5K8OjCXnj9]WCW5n3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1699110067
+8D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes/adder.v
+FD:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes/adder.v
+!i122 12
+L0 4 8
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1700069489.000000
+!s107 D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes/adder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes|D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes/adder.v|
+!i113 1
+Z7 o-vlog01compat -work work
+Z8 !s92 -vlog01compat -work work {+incdir+D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes}
+Z9 tCvgOpt 0
+valu
+R1
+!i10b 1
+!s100 @Ml1MUE6YRoEFYU6kV7gR0
+R2
+I_UIPCXSDe3nOACL7aX^k51
+R3
+R0
+w1700051259
+8D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes/alu.v
+FD:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes/alu.v
+!i122 11
+L0 4 31
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes/alu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes|D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes/alu.v|
+!i113 1
+R7
+R8
+R9
+valu_decoder
+R1
+!i10b 1
+!s100 HIKP9czR=ZXFPkbbFecdR0
+R2
+INjPRMnZC@b@Q:J0eUBm?A3
+R3
+R0
+w1699989498
+8D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes/alu_decoder.v
+FD:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes/alu_decoder.v
+!i122 10
+L0 4 35
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes/alu_decoder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes|D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes/alu_decoder.v|
+!i113 1
+R7
+R8
+R9
+vcontroller
+R1
+!i10b 1
+!s100 J2h1ZAIz^<aE1^DNDn6N90
+R2
+IO[i`KJH7[2bn4nk7;@Y@K1
+R3
+R0
+w1700051669
+8D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes/controller.v
+FD:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes/controller.v
+!i122 9
+L0 4 28
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes/controller.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes|D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes/controller.v|
+!i113 1
+R7
+R8
+R9
+vdata_mem
+Z10 !s110 1700069490
+!i10b 1
+!s100 cSgAMTM]e`<Hged1CI=SB3
+R2
+ILfzOMJP9oWfTN_DH5ihzz1
+R3
+R0
+Z11 w1699110063
+8D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/data_mem.v
+FD:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/data_mem.v
+!i122 13
+L0 4 19
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/data_mem.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu|D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/data_mem.v|
+!i113 1
+R7
+Z12 !s92 -vlog01compat -work work {+incdir+D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu}
+R9
+vdatapath
+R1
+!i10b 1
+!s100 na8Z?iW]3CWYLXDDl3izF3
+R2
+IG<90PDAg_JIPIJgIBUVjA1
+R3
+R0
+w1699787464
+8D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes/datapath.v
+FD:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes/datapath.v
+!i122 8
+L0 4 60
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes/datapath.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes|D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes/datapath.v|
+!i113 1
+R7
+R8
+R9
+vimm_extend
+R1
+!i10b 1
+!s100 RgQ?:B9HOGj6dKTd_RDFc1
+R2
+IKAMV[YgR4nA2f=2^1;T?D3
+R3
+R0
+w1699989447
+8D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes/imm_extend.v
+FD:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes/imm_extend.v
+!i122 7
+L0 4 21
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes/imm_extend.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes|D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes/imm_extend.v|
+!i113 1
+R7
+R8
+R9
+vinstr_mem
+R10
+!i10b 1
+!s100 34=WC5DP3=:>R;n=f:<;01
+R2
+IMJLKQ;eW]6Y4<Uc<OnDN@1
+R3
+R0
+R11
+8D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/instr_mem.v
+FD:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/instr_mem.v
+!i122 16
+L0 4 17
+R5
+r1
+!s85 0
+31
+Z13 !s108 1700069490.000000
+!s107 D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/instr_mem.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu|D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/instr_mem.v|
+!i113 1
+R7
+R12
+R9
+vload_extend
+R1
+!i10b 1
+!s100 FZO8YUcQoT^MaJPd:>9GA3
+R2
+IboXmN7<YG4GcT6j`8_<7T2
+R3
+R0
+w1699989431
+8D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes/load_extend.v
+FD:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes/load_extend.v
+!i122 6
+L0 5 35
+R5
+r1
+!s85 0
+31
+Z14 !s108 1700069488.000000
+!s107 D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes/load_extend.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes|D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes/load_extend.v|
+!i113 1
+R7
+R8
+R9
+vmain_decoder
+Z15 !s110 1700069488
+!i10b 1
+!s100 0fgkLOEYO71`g2fOnkk0j0
+R2
+IEK84Dd0_1PYfMXfhDCQ3L2
+R3
+R0
+w1699989485
+8D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes/main_decoder.v
+FD:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes/main_decoder.v
+!i122 5
+L0 4 67
+R5
+r1
+!s85 0
+31
+R14
+!s107 D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes/main_decoder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes|D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes/main_decoder.v|
+!i113 1
+R7
+R8
+R9
+vmux2
+R15
+!i10b 1
+!s100 O<Ld`3jD6QL?6PIEe_QAk1
+R2
+ID56?o0dkg7J=j]UEMeajH0
+R3
+R0
+R4
+8D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes/mux2.v
+FD:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes/mux2.v
+!i122 4
+Z16 L0 4 9
+R5
+r1
+!s85 0
+31
+R14
+!s107 D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes/mux2.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes|D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes/mux2.v|
+!i113 1
+R7
+R8
+R9
+vmux4
+R15
+!i10b 1
+!s100 V4YdM>hK^I8CMb?cH8Cej3
+R2
+I8zC1I`LdN_h^jnnAIZ4>Q3
+R3
+R0
+R4
+8D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes/mux4.v
+FD:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes/mux4.v
+!i122 3
+R16
+R5
+r1
+!s85 0
+31
+R14
+!s107 D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes/mux4.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes|D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes/mux4.v|
+!i113 1
+R7
+R8
+R9
+vreg_file
+R15
+!i10b 1
+!s100 5I6lAXX5bBkkei^2dAaBm2
+R2
+Ik3KNZgBj7hgbelUb[IG5a2
+R3
+R0
+w1699373446
+8D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes/reg_file.v
+FD:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes/reg_file.v
+!i122 2
+L0 8 30
+R5
+r1
+!s85 0
+31
+R14
+!s107 D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes/reg_file.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes|D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes/reg_file.v|
+!i113 1
+R7
+R8
+R9
+vreset_ff
+R15
+!i10b 1
+!s100 c1I5T0L8]]ZK0dn2hg0_F0
+R2
+I7TB;mRbea;^X;Q;VjNDQz3
+R3
+R0
+R4
+8D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes/reset_ff.v
+FD:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes/reset_ff.v
+!i122 1
+L0 4 12
+R5
+r1
+!s85 0
+31
+R14
+!s107 D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes/reset_ff.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes|D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes/reset_ff.v|
+!i113 1
+R7
+R8
+R9
+vriscv_cpu
+R10
+!i10b 1
+!s100 ]<ih>Uemh=QdEVS_8Uf2k1
+R2
+IS;BfQ1dGOM19IOC<1SgSl2
+R3
+R0
+w1699332237
+8D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/riscv_cpu.v
+FD:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/riscv_cpu.v
+!i122 14
+L0 32 26
+R5
+r1
+!s85 0
+31
+R13
+!s107 D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/riscv_cpu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu|D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/riscv_cpu.v|
+!i113 1
+R7
+R12
+R9
+vstore_extend
+R15
+!i10b 1
+!s100 0^QoLcM06o=;9Rj5kV9293
+R2
+IeNO38e1RILfhK<1DT=iDB0
+R3
+R0
+w1699989411
+8D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes/store_extend.v
+FD:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes/store_extend.v
+!i122 0
+L0 4 26
+R5
+r1
+!s85 0
+31
+R14
+!s107 D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes/store_extend.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes|D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/verilog_codes/store_extend.v|
+!i113 1
+R7
+R8
+R9
+vt2b_riscv_cpu
+R10
+!i10b 1
+!s100 CS>MhMIgi>]?B01TGi9fH1
+R2
+IdT4Mlhod=Rn2E[OU_XZHa2
+R3
+R0
+w1699331670
+8D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/t2b_riscv_cpu.v
+FD:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/t2b_riscv_cpu.v
+!i122 15
+L0 17 24
+R5
+r1
+!s85 0
+31
+R13
+!s107 D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/t2b_riscv_cpu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu|D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/t2b_riscv_cpu.v|
+!i113 1
+R7
+R12
+R9
+vtb
+R10
+!i10b 1
+!s100 YmX5GZ5knY=g?g6]ho1EK0
+R2
+I:Rn43_d>VQ4S@R2hAizI^3
+R3
+R0
+w1699982874
+8D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/simulation/modelsim/tb.v
+FD:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/simulation/modelsim/tb.v
+!i122 17
+L0 3 92
+R5
+r1
+!s85 0
+31
+R13
+!s107 D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/simulation/modelsim/tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/simulation/modelsim|D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/simulation/modelsim/tb.v|
+!i113 1
+R7
+!s92 -vlog01compat -work work {+incdir+D:/AT_23-24/2396#25_ab#2396_Task2B/t2b_riscv_cpu (1)/t2b_riscv_cpu/simulation/modelsim}
+R9
